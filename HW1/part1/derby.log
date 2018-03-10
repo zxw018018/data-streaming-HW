@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Feb 08 23:44:30 EST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-78e1-0cef-00000fc06708 
-on database directory /Users/xinwei/Documents/GitHub/data-streaming-HW/HW1/part1/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1e61d8fd 
+Thu Mar 08 19:59:22 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0162-0844-ffde-00000f52beb0 
+on database directory /Users/xinwei/Documents/GitHub/data-streaming-HW/HW1/part1/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@49fb554c 
 Loaded from file:/Users/xinwei/spark-2.2.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_141-b15
